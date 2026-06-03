@@ -36,14 +36,20 @@
     "enabled": true
   },
   {
-    "name": "Runascs",
-    "repository": "https://github.com/antonioCoco/RunasCs.git",
+    "name": "SharpDPAPI",
+    "repository": "https://github.com/GhostPack/SharpDPAPI.git",
     "branch": null,
     "enabled": true
   },
   {
     "name": "SweetPotato",
     "repository": "https://github.com/CCob/SweetPotato.git",
+    "branch": null,
+    "enabled": true
+  },
+  {
+    "name": "SharpSCCM",
+    "repository": "https://github.com/Mayyhem/SharpSCCM.git",
     "branch": null,
     "enabled": true
   }
