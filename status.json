@@ -4,63 +4,71 @@
     "repoUrl": "https://github.com/GhostPack/Rubeus.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-06-01T03:09:52Z",
-    "lastSuccess": "2026-06-01T03:09:52Z"
+    "lastUpdated": "2026-06-03T15:08:28Z",
+    "lastSuccess": "2026-06-03T15:08:28Z"
   },
   {
     "name": "Seatbelt",
     "repoUrl": "https://github.com/GhostPack/Seatbelt.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-06-01T03:10:07Z",
-    "lastSuccess": "2026-06-01T03:10:07Z"
+    "lastUpdated": "2026-06-03T15:08:43Z",
+    "lastSuccess": "2026-06-03T15:08:43Z"
   },
   {
     "name": "SharpUp",
     "repoUrl": "https://github.com/GhostPack/SharpUp.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-06-01T03:10:10Z",
-    "lastSuccess": "2026-06-01T03:10:10Z"
+    "lastUpdated": "2026-06-03T15:08:47Z",
+    "lastSuccess": "2026-06-03T15:08:47Z"
   },
   {
     "name": "SharpHound",
     "repoUrl": "https://github.com/BloodHoundAD/SharpHound.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-06-01T03:10:13Z",
-    "lastSuccess": "2026-06-01T03:10:13Z"
+    "lastUpdated": "2026-06-03T15:08:49Z",
+    "lastSuccess": "2026-06-03T15:08:49Z"
   },
   {
     "name": "Certify",
     "repoUrl": "https://github.com/GhostPack/Certify.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-06-01T03:10:59Z",
-    "lastSuccess": "2026-06-01T03:10:59Z"
+    "lastUpdated": "2026-06-03T15:09:39Z",
+    "lastSuccess": "2026-06-03T15:09:39Z"
   },
   {
     "name": "ADSearch",
     "repoUrl": "https://github.com/tomcarver16/ADSearch.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-06-01T03:11:12Z",
-    "lastSuccess": "2026-06-01T03:11:12Z"
+    "lastUpdated": "2026-06-03T15:09:53Z",
+    "lastSuccess": "2026-06-03T15:09:53Z"
   },
   {
-    "name": "Runascs",
-    "repoUrl": "https://github.com/antonioCoco/RunasCs.git",
+    "name": "SharpDPAPI",
+    "repoUrl": "https://github.com/GhostPack/SharpDPAPI.git",
     "branch": null,
-    "buildStatus": "failed",
-    "lastUpdated": "2026-06-01T03:11:19Z",
-    "lastSuccess": null
+    "buildStatus": "success",
+    "lastUpdated": "2026-06-03T15:10:01Z",
+    "lastSuccess": "2026-06-03T15:10:01Z"
   },
   {
     "name": "SweetPotato",
     "repoUrl": "https://github.com/CCob/SweetPotato.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-06-01T03:11:20Z",
-    "lastSuccess": "2026-06-01T03:11:20Z"
+    "lastUpdated": "2026-06-03T15:10:09Z",
+    "lastSuccess": "2026-06-03T15:10:09Z"
+  },
+  {
+    "name": "SharpSCCM",
+    "repoUrl": "https://github.com/Mayyhem/SharpSCCM.git",
+    "branch": null,
+    "buildStatus": "success",
+    "lastUpdated": "2026-06-03T15:10:22Z",
+    "lastSuccess": "2026-06-03T15:10:22Z"
   }
 ]
