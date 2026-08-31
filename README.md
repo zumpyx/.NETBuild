@@ -13,14 +13,14 @@ Each tool ships in three flavours:
 
 | Tool | Repository | Status | Last Successful Build |
 |------|-----------|--------|----------------------|
-| Rubeus | [Rubeus](https://github.com/GhostPack/Rubeus.git) | ✅ Success | 08/24/2026 02:58:03 |
-| Seatbelt | [Seatbelt](https://github.com/GhostPack/Seatbelt.git) | ✅ Success | 08/24/2026 02:58:20 |
-| SharpUp | [SharpUp](https://github.com/GhostPack/SharpUp.git) | ✅ Success | 08/24/2026 02:58:25 |
-| SharpHound | [SharpHound](https://github.com/BloodHoundAD/SharpHound.git) | ✅ Success | 08/24/2026 02:58:28 |
-| Certify | [Certify](https://github.com/GhostPack/Certify.git) | ✅ Success | 08/24/2026 02:59:15 |
-| ADSearch | [ADSearch](https://github.com/tomcarver16/ADSearch.git) | ✅ Success | 08/24/2026 02:59:31 |
-| SharpDPAPI | [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI.git) | ✅ Success | 08/24/2026 02:59:40 |
-| SweetPotato | [SweetPotato](https://github.com/CCob/SweetPotato.git) | ✅ Success | 08/24/2026 02:59:50 |
-| SharpSCCM | [SharpSCCM](https://github.com/Mayyhem/SharpSCCM.git) | ✅ Success | 08/24/2026 03:00:05 |
+| Rubeus | [Rubeus](https://github.com/GhostPack/Rubeus.git) | ✅ Success | 08/31/2026 08:00:56 |
+| Seatbelt | [Seatbelt](https://github.com/GhostPack/Seatbelt.git) | ✅ Success | 08/31/2026 08:01:21 |
+| SharpUp | [SharpUp](https://github.com/GhostPack/SharpUp.git) | ✅ Success | 08/31/2026 08:01:25 |
+| SharpHound | [SharpHound](https://github.com/BloodHoundAD/SharpHound.git) | ✅ Success | 08/31/2026 08:01:28 |
+| Certify | [Certify](https://github.com/GhostPack/Certify.git) | ✅ Success | 08/31/2026 08:02:46 |
+| ADSearch | [ADSearch](https://github.com/tomcarver16/ADSearch.git) | ✅ Success | 08/31/2026 08:03:03 |
+| SharpDPAPI | [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI.git) | ✅ Success | 08/31/2026 08:03:11 |
+| SweetPotato | [SweetPotato](https://github.com/CCob/SweetPotato.git) | ✅ Success | 08/31/2026 08:03:20 |
+| SharpSCCM | [SharpSCCM](https://github.com/Mayyhem/SharpSCCM.git) | ✅ Success | 08/31/2026 08:03:33 |
 
-_Last updated: 2026-08-24 03:00 UTC_
+_Last updated: 2026-08-31 08:03 UTC_
